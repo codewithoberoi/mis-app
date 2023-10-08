@@ -1,8 +1,8 @@
 {
     "hostip":"10.4.44.84",
     "port":"22",
-    "username":"rajat_23142",
-    "sourcePath": "/Users/rajatoberoi/paytmStuff/Udemy/NodeJS/sourceCode/mis-app",
+    "username":"rajat_20001",
+    "sourcePath": "/Users/rajatoberoi/Stuff/NodeJS/sourceCode/mis-app",
     "destinationPath": "/home/rajat_23142/test_sftp",
     "fileName": "filetoUpload.txt"
  }
