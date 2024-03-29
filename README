@@ -1,0 +1,5 @@
+This application allows users to upload using SFTP any file from source to destination.
+
+
+
+Secure File Transfer Protocol (SFTP) is a network protocol that allows for encrypted file transfers between a client and a server.
